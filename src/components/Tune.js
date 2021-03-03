@@ -1,12 +1,12 @@
 import React from 'react';
 
-const Header = () => {
+const Tune = ({tune}) => {
 
     return (
 
         <>
         
-            <h2>Header Title Here</h2>
+            <li>{tune.name}</li>
         
         </>
 
@@ -14,4 +14,4 @@ const Header = () => {
 
 }
 
-export default Header
+export default Tune
