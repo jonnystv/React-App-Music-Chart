@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React App Music Charts
+
+Build a React app to pass the data request down a chain of components and practice using stateless components
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
